@@ -1,6 +1,9 @@
 # Docker-Services
 Various services I self-host via Docker containers
 
+Hardware:
+- Dell Latitude 3310 2-in-1 intel i5-8365U, 16gb ddr4, 128gb ssd
+
 | Service      | Status | Role |
 | ----------- | ----------- | ----------- |
 | Homarr      | Running       | Dashboard |
