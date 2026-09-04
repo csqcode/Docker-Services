@@ -11,7 +11,8 @@ Hardware:
 | Vaultwarden   | Running        | Password Manager |
 | Mealie   | Running        | Recipe Manager |
 | Uptime Kuma   | Running        | Network Monitor |
+| Ntfy   | Running        | Push Notification System |
+| Wishlist   | Running        | Wishlist |
+| SearXNG | Not Started | Search Engine |
 | Grafana   | Not Started        | Metrics Visualizer |
 | Prometheus   | Not Started        | Metrics Gatherer |
-| Ntfy   | Running        | Push Notification System |
-| SearXNG | Not Started | Search Engine |
