@@ -13,6 +13,7 @@ Hardware:
 | Uptime Kuma   | Running        | Network Monitor |
 | Ntfy   | Running        | Push Notification System |
 | Wishlist   | Running        | Wishlist |
+| OpenGym   | Running        | Workout Tracker |
 | SearXNG | Not Started | Search Engine |
 | Grafana   | Not Started        | Metrics Visualizer |
 | Prometheus   | Not Started        | Metrics Gatherer |
